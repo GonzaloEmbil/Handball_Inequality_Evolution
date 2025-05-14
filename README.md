@@ -1,1 +1,24 @@
-# handball-evolution-through-history
+# Analysis of the handball evolution between 1980 and 2024
+
+In this repository you will find scripts and datasets that allow us to analyze different aspects of handball evolution between 1980 and 2024.
+
+This work is a small part of my article "Análisis de las licencias de importación en la Comunidad de Madrid entre 1947 and 1959" that you can find on:
+
+*
+
+
+## Goals per game
+
+![Goals per game](Visuals/Goalspergame_Men'sHandball_OlympicGames_(1980-2024).png)
+
+
+## Goals per team
+
+![Goals per team](Visuals/Goalsperteam_Men'sHandball_OlympicGames_(1980-2024).png)
+
+
+## Modelling goal difference per game and ranking
+
+![Modelling goal difference per game and ranking1](Visuals/Modelling_goaldifferencepergame_ranking_OlympicGames(1980-2024).png)
+
+![Modelling goal difference per game and ranking2](Visuals/Modelling_goaldifferencepergame_ranking_OlympicGames.png)
