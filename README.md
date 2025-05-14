@@ -2,7 +2,7 @@
 
 In this repository you will find scripts and datasets that allow us to analyze different aspects of handball evolution on the Olympic Game between 1980 and 2024.
 
-This work is a small part of my article "Analysis of handball evolution on the Olympic Games between 1980 and 2024" that you can find on:
+This work is a small part of my article "Analysis of the evolution of inequality in handball at the Olympic Games between 1980 and 2024" that you can find on:
 
 *
 
