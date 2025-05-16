@@ -22,3 +22,7 @@ This work is a small part of my article "Analysis of the evolution of inequality
 ![Modelling goal difference per game and ranking1](Visuals/Modelling_goaldifferencepergame_ranking_OlympicGames(1980-2024).png)
 
 ![Modelling goal difference per game and ranking2](Visuals/Modelling_goaldifferencepergame_ranking_OlympicGames.png)
+
+## Modelling goal difference per game
+
+![Modelling goal difference per game and ranking2](Visuals/Goaldifferencepergame_Men'sHandball_OlympicGames.png)
