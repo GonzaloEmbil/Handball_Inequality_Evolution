@@ -21,6 +21,6 @@ In this repository you will find scripts and datasets that allow us to analyze d
 
 ## Modelling goal difference per game
 
-![Modelling goal difference per game and ranking2](Visuals/Goaldifferencepergame_Men'sHandball_OlympicGames.png)
+![1](Visuals/Goaldifferencepergame_Men'sHandball_OlympicGames.png)
 
-![Modelling goal difference per game and ranking2](Visuals/GroupedGoaldifferencepergame_Men'sHandball_OlympicGames.png)
+![2](Visuals/GroupedGoaldifferencepergame_Men'sHandball_OlympicGames.png)
