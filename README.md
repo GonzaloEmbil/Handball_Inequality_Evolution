@@ -1,6 +1,7 @@
 # Analysis of Inequality Evolution in Handball
 
-In this repository you will find scripts and datasets that allow us to analyze different aspects of handball evolution on the Olympic Game between 1980 and 2024.
+
+This repository contains scripts and datasets for analyzing handball’s evolution and inequality trends at the Olympic Games from 1980 to 2024.
 
 
 ## Goals per game
