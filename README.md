@@ -19,7 +19,7 @@ In this repository you will find scripts and datasets that allow us to analyze d
 
 ![Modelling goal difference per game and ranking2](Visuals/Modelling_goaldifferencepergame_ranking_OlympicGames.png)
 
-## Modelling goal difference per game
+## Goal difference per game
 
 ![1](Visuals/Goaldiff.png)
 
