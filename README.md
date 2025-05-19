@@ -13,15 +13,17 @@ This repository provides scripts and datasets to analyze handball’s evolution 
 
 ![Goals per team](Visuals/Goalsperteam_Men'sHandball_OlympicGames_(1980-2024).png)
 
+## Goal difference per game
+
+![1](Visuals/Goaldifferencepergame.png)
+
+![2](Visuals/Grouped_Goaldifferencepergame.png)
+
+![3](Visuals/YearbyYear_Goaldifferencepergame.gif)
+
 
 ## Modelling goal difference per game and ranking
 
 ![Modelling goal difference per game and ranking1](Visuals/Modelling_goaldifferencepergame_ranking_OlympicGames(1980-2024).png)
 
 ![Modelling goal difference per game and ranking2](Visuals/Modelling_goaldifferencepergame_ranking_OlympicGames.png)
-
-## Goal difference per game
-
-![1](Visuals/Goaldiff.png)
-
-![2](Visuals/Grouped_Goaldifferencepergame_Men'sHandball_OlympicGames.png)
