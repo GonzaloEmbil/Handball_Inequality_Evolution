@@ -15,7 +15,7 @@ This repository provides scripts and datasets to analyze handball’s evolution 
 
 ## Goal difference per game
 
-![1](Visuals/Goaldifferencepergame.png)
+![1](Visuals/Goaldiffpergame.png)
 
 ![3](Visuals/Goaldiffpergame_ByYear.gif)
 
